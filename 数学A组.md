@@ -2,4 +2,4 @@
 
 1. 已知函数 $f(x)=\frac{1+3x}{1-2x}$ 与函数 $g(x)$ 的图像关于 $y=x$ 对称，函数 $h(x)$ 与 $g(x+2)$ 互为反函数，则 $h(4)$ 的值为__________。
 
-2. 给定函数 $f(x)=\sin{\big(2x+\frac{\pi}{3}\big)}$ 。若函数 $y=\varphi(x)$ ， $x\in D$ ，对于定义域 $D$ 内的任意实数 $x$ ，以及给定的非零常数 $P$ ，总存在非零常数 $T$ ，恒有 $\varphi(x+T)=P\cdot\varphi(x)$ 成立，则称函数 $\varphi(x)$ 是 $D$ 上的“ $P$ 级周期函数”，周期为 $T$ 。证明：存在非零常数 $\lambda$ ，使函数 $h(x)={(\frac12)}^xf(\lambda x-\frac{\pi}{6})$ 是 $R$ 上的周期为 $T$ 的 $T$ 级周期函数.
+2. 给定函数 $f(x)=\sin{\Big(2x+\frac{\pi}{3}\Big)}$ 。若函数 $y=\varphi(x)$ ， $x\in D$ ，对于定义域 $D$ 内的任意实数 $x$ ，以及给定的非零常数 $P$ ，总存在非零常数 $T$ ，恒有 $\varphi(x+T)=P\cdot\varphi(x)$ 成立，则称函数 $\varphi(x)$ 是 $D$ 上的“ $P$ 级周期函数”，周期为 $T$ 。证明：存在非零常数 $\lambda$ ，使函数 $h(x)={\big(\frac12\big)}^xf\Big(\lambda x-\frac{\pi}{6}\Big)$ 是 $R$ 上的周期为 $T$ 的 $T$ 级周期函数.
